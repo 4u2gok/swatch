@@ -1,0 +1,5 @@
+-r base.txt
+django-crispy-forms==1.6.0
+gunicorn==19.7.1
+pylibmc==1.5.2
+setproctitle==1.1.10

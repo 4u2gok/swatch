@@ -1,0 +1,10 @@
+*.py[co]
+*.sw[po]
+*.egg*
+__pycache__
+.DS_Store
+.data
+*.sublime-workspace
+.idea
+celerybeat-schedule
+celerybeat.pid

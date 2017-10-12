@@ -1,0 +1,13 @@
+celery==4.0.2
+Django==1.10
+django-allauth==0.26.1
+django-celery-beat==1.0.1
+django-rest-auth==0.8.1
+djangorestframework==3.4.1
+oauthlib==1.1.2
+psycopg2==2.6.2
+python-openid==2.2.5
+requests==2.10.0
+requests-oauthlib==0.6.2
+six==1.10.0
+django-filter==0.14.0
